@@ -1,10 +1,10 @@
 # NebularTheme
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli target="_blank") version 6.1.2.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli target="_blank) version 6.1.2.
 
-Original Theme: [ngx-admin](http://akveo.com/ngx-admin target="_blank") made by [Akveo Team](https://github.com/akveo/ngx-admin/ target="_blank") (GitHub).
+Original Theme: [ngx-admin](http://akveo.com/ngx-admin" target="_blank) made by [Akveo Team](https://github.com/akveo/ngx-admin/" target="_blank) (GitHub).
 
-Here you can find [documentation](https://akveo.github.io/nebular/docs/getting-started/what-is-nebular target="_blank").
+Here you can find [documentation](https://akveo.github.io/nebular/docs/getting-started/what-is-nebular" target="_blank).
 
 ## Update NbMenuModule (ionicons v4.4.4)
 
