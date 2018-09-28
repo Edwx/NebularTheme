@@ -1,6 +1,8 @@
 # NebularTheme
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2. Original theme: [ngx-admin](http://akveo.com/ngx-admin) made by [Akveo team](https://github.com/akveo/ngx-admin/). Here you can find [documentation](https://akveo.github.io/nebular/docs/getting-started/what-is-nebular).
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2. 
+Original theme: [ngx-admin](http://akveo.com/ngx-admin) made by [Akveo team](https://github.com/akveo/ngx-admin/). 
+Here you can find [documentation](https://akveo.github.io/nebular/docs/getting-started/what-is-nebular).
 
 ## Development server
 
