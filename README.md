@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.2.
 
-Original Theme: [ngx-admin](http://akveo.com/ngx-admin" target="_blank) made by [Akveo Team](https://github.com/akveo/ngx-admin/") (GitHub).
+Original Theme: [ngx-admin](http://akveo.com/ngx-admin") made by [Akveo Team](https://github.com/akveo/ngx-admin/") (GitHub).
 
 Here you can find [documentation](https://akveo.github.io/nebular/docs/getting-started/what-is-nebular").
 
